@@ -85,7 +85,8 @@ python hello_agent/my_react_agent.py
 
 ## 📚 学习资源
 
-根目录下的 `智能体Agent.md` 包含了关于智能体设计模式（ReAct, Plan-and-Solve, Reflection）、物理符号系统假说、强化学习等理论的深入思考和问答，是理解本项目设计思路的重要参考。
+*   **课程项目主页**: [Datawhale Hello Agents](https://datawhalechina.github.io/hello-agents/#/./README)
+*   根目录下的 `智能体Agent.md` 包含了关于智能体设计模式（ReAct, Plan-and-Solve, Reflection）、物理符号系统假说、强化学习等理论的深入思考和问答，是理解本项目设计思路的重要参考。
 
 ## ⚠️ 免责声明
 
