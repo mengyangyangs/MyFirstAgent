@@ -176,11 +176,11 @@ class GeminiClient:
 import re
 # --- 1.配置LLM客户端 ---
 # 请根据您使用的服务，将这里替换成对应的凭证和地址
-API_KEY = "AIzaSyCMBvmSu85Mu7zJb4BvOME7yGk9ulHu_HM"
+API_KEY = "YOUR_API_KEY"
 # BASE_URL = "https://aistudio.google.com/"
 MODEL_ID = "gemini-2.5-flash"
-TAVILY_API_KEY = "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"
-os.environ["TAVILY_API_KEY"] = "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"
+TAVILY_API_KEY = "YOUR_API_KEY"
+os.environ["TAVILY_API_KEY"] = "YOUR_API_KEY"
 
 llm = GeminiClient(
     model = MODEL_ID,
